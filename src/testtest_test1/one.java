@@ -2,6 +2,6 @@ package testtest_test1;
 
 public class one {
 	public one() {
-		System.out.println("첫번째");
+		System.out.println("첫xxx번째");
 	}
 }
